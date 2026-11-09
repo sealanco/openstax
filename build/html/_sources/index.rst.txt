@@ -3,8 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Maths for Python
-================
+OpenStax Mathematics Exercises
+==============================
+
+
 
 Add your content using ``reStructuredText`` syntax. See the
 `reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
@@ -15,4 +17,5 @@ documentation for details.
    :maxdepth: 2
    :caption: Contents:
 
-   pages/prealgebra
+   pages/prealgebra-2e-01
+   pages/prealgebra-2e-02
