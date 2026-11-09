@@ -1,0 +1,4 @@
+7 stands for 7 ones
+72 stands for 7 tens + 2 ones
+349 stands for 3 hundreds + 4 tens + 9 ones
+6040 stands for 6 thousands + 0 hundreds + 4 tens + 0 ones

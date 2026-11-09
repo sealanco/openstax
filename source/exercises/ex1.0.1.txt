@@ -1,0 +1,7 @@
+1. 35 stands for 3 tens + 5 ones
+
+2. 209 stands for 2 hundreds + 0 tens + 9 ones
+
+3. 9532 stands for 9 thousands + 5 hundreds + 3 tens + 2 ones
+
+4. 21045 stands for 2 ten-thousands + 1 thousand + 0 hundreds + 4 tens + 5 ones

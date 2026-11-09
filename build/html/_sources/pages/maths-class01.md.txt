@@ -223,7 +223,7 @@ Exercise 00012 - Text:\
 Suwali has placed all the buttons in three groups.
 Why did Suwali make such groups?
 ```text
-Answer: To sort them by colour.
+Answer: Suwali made such groups to sort them by colour.
 ```
 
 Exercise 00013 - Picture:\
