@@ -13,3 +13,8 @@ button.copybtn {
 div.highlight {
     position: relative;
 }
+
+/* Invert black math SVGs on dark themes */
+img.math {
+    filter: invert(1) hue-rotate(180deg);
+}

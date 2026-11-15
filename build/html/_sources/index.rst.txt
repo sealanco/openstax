@@ -18,4 +18,3 @@ documentation for details.
    :caption: Contents:
 
    pages/prealgebra-2e-01
-   pages/prealgebra-2e-02

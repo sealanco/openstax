@@ -15,7 +15,7 @@ html_title = "Maths for Python"
 html_short_title = "Maths for Python"
 
 # Set this to your actual GitHub Pages URL (including the repository subpath)
-html_baseurl = "https://sealanco.github.io/blog/"
+html_baseurl = "https://sealanco.github.io/openstax/"
 
 html_theme_options = {
 #    "logo_name": True,  # Uses your exact html_title instead of default branding logic
@@ -26,7 +26,7 @@ html_theme_options = {
 
 extensions = [
     'myst_parser',
-    'sphinx.ext.mathjax',
+    'sphinx.ext.imgmath',
     # "sphinx_copybutton",
     "matplotlib.sphinxext.plot_directive",
 ]
@@ -81,3 +81,18 @@ plot_rcparams = {
     "figure.facecolor": "none",
     "axes.facecolor": "none",
 }
+
+imgmath_image_format = 'svg'
+imgmath_use_preview = False
+imgmath_font_size = 14
+# Specify the absolute path to your latex executable if it's not in PATH
+imgmath_latex = 'latex'  # or e.g. '/usr/bin/latex'
+
+html_css_files = ['custom.css']
+
+# Force all math equations to compile with white text for your dark theme
+imgmath_latex_preamble = r'''
+\usepackage{xcolor}
+\color{white}
+'''
+

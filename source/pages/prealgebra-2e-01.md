@@ -2,15 +2,14 @@
 
 ## Chapter 1 - Whole Numbers
 
-Introduction\
-Exercise 00001 - Picture
+Introduction
+
+Figure 1.1 - Picture
 ![Figure](../images/CNX_BMath_Figure_01_00_001.jpg)
 
 Even though counting is first taught at a young age, mastering mathematics, which is the study of numbers, requires constant attention. If it has been a while since you have studied math, it can be helpful to review basic topics. In this chapter, we will focus on numbers used for counting as well as four arithmetic operations—addition, subtraction, multiplication, and division. We will also discuss some vocabulary that we will use throughout this book.
 
 ### 1.1 Introduction to Whole Numbers
-
-  
 
 By the end of this section, you will be able to:
 
@@ -25,56 +24,21 @@ Identify Counting Numbers and Whole Numbers
 
 Learning algebra is similar to learning a language. You start with a basic vocabulary and then add to it as you go along. You need to practice often until the vocabulary becomes easy to you. The more you use the vocabulary, the more familiar it becomes.
 
-Exercise 00002 - LaTeX
-```latex
-Algebra uses numbers and symbols to represent words and ideas. Let’s look at the numbers first. The most basic numbers used in algebra are those we use to count objects: $1, 2, 3, 4, 5, …$ and so on. These are called the **counting numbers**. The notation “…” is called an ellipsis, which is another way to show “and so on”, or that the pattern continues endlessly. Counting numbers are also called natural numbers.
-```
-
-Algebra uses numbers and symbols to represent words and ideas. Let’s look at the numbers first. The most basic numbers used in algebra are those we use to count objects: $1, 2, 3, 4, 5, …$ and so on. These are called the **counting numbers**. The notation “…” is called an ellipsis, which is another way to show “and so on”, or that the pattern continues endlessly. Counting numbers are also called natural numbers.
+Algebra uses numbers and symbols to represent words and ideas. Let’s look at the numbers first. The most basic numbers used in algebra are those we use to count objects: 1, 2, 3, 4, 5, ... and so on. These are called the **counting numbers**. The notation “…” is called an ellipsis, which is another way to show “and so on”, or that the pattern continues endlessly. Counting numbers are also called natural numbers.
 
 Counting Numbers
 
-Exercise 00003 - LaTeX
-```latex
-The counting numbers start with 1 and continue. $1, 2, 3, 4, 5, …$
-```
+The counting numbers start with 1 and continue 1, 2, 3, 4, 5, ...
 
-```latex
-\documentclass{article}
-\usepackage{amsmath} % Good practice for mathematical formatting
+The counting numbers start with 1 and continue. 1, 2, 3, 4, 5, ...
 
-\begin{document}
+Counting numbers and whole numbers can be visualized on a **number line** as shown in Figure 1.2.
 
-The counting numbers start with 1 and continue ($1, 2, 3, 4, 5, \dots$).
+Figure 1.2 - Picture
 
-\end{document}
-```
-
-$$
-\documentclass{article}
-\usepackage{amsmath} % Good practice for mathematical formatting
-
-\begin{document}
-
-The counting numbers start with 1 and continue ($1, 2, 3, 4, 5, \dots$).
-
-\end{document}
-$$
-
-The counting numbers start with 1 and continue. $1, 2, 3, 4, 5, …$
-
-Counting numbers and whole numbers can be visualized on a **number line** as shown in Exercise 00004.
-
-Exercise 00004 - Picture
 ![Figure](../images/CNX_BMath_Figure_01_01_001.jpg)
-**
 
-Exercise 00005 - LaTeX
-```latex
-The point labeled $0$ is called the **origin**. The points are equally spaced to the right of $0$ and labeled with the counting numbers. When a number is paired with a point, it is called the **coordinate** of the point.
-```
-
-The point labeled $0$ is called the **origin**. The points are equally spaced to the right of $0$ and labeled with the counting numbers. When a number is paired with a point, it is called the **coordinate** of the point.
+The point labeled 0 is called the **origin**. The points are equally spaced to the right of 0 and labeled with the counting numbers. When a number is paired with a point, it is called the **coordinate** of the point.
 
 
 The discovery of the number zero was a big step in the history of mathematics. Including zero with the counting numbers gives a new set of numbers called the **whole numbers**.
@@ -83,142 +47,94 @@ Whole Numbers
 
 The whole numbers are the counting numbers and zero.
 
-Exercise 00006 - LaTeX
-```latex
-$0, 1, 2, 3, 4, 5, …$
-```
+0, 1, 2, 3, 4, 5, ...
 
-$0, 1, 2, 3, 4, 5, …$
+We stopped at 5 when listing the first few counting numbers and whole numbers. We could have written more numbers if they were needed to make the patterns clear.
 
-Exercise 00007 - LaTeX
-```latex
-We stopped at $5$ when listing the first few counting numbers and whole numbers. We could have written more numbers if they were needed to make the patterns clear.
-```
-
-We stopped at $5$ when listing the first few counting numbers and whole numbers. We could have written more numbers if they were needed to make the patterns clear.
-
-Which of the following are counting numbers? And whole numbers?
-
-Exercise 00008 - LaTeX
-```latex
-$0, 14, 3, 5.2, 15, 105$
-```
-
-$0, 14, 3, 5.2, 15, 105$
-
-Solution
-
-* The counting numbers start at $1$, so $0$ is not a counting number. The numbers $3, 15, and 105$ are all counting numbers.
-* Whole numbers are counting numbers and $0$. The numbers $0, 3, 15, and 105$ are whole numbers.
-
-The numbers $14$ and $5.2$ are neither counting numbers nor whole numbers. We will discuss these numbers later.
+EXAMPLE 1.1: Text
 
 Which of the following are ⓐ counting numbers ⓑ whole numbers?
 
-0,23,2,9,11.8,241,376
+0, $\frac{1}{4}$, 3, 5.2, 15, 105
 
-* ⓐ 2, 9, 241, 376
-* ⓑ 0, 2, 9, 241, 376
+Solution:
+
+* ⓐ The counting numbers are 3, 15, and 105.
+* ⓑ Whole numbers are 0, 3, 15, and 105.
+
+The numbers $\frac{1}{4}$ and 5.2 are neither counting numbers nor whole numbers. We will discuss these numbers later.
+
+TRY IT 1.1: Text
 
 Which of the following are ⓐ counting numbers ⓑ whole numbers?
 
-0,53,7,8.8,13,201
+0, $\frac{2}{3}$, 2, 9, 11.8, 241, 376
 
-* ⓐ 7, 13, 201
-* ⓑ 0, 7, 13, 201
+Solution:
+
+* ⓐ The counting numbers are 2, 9, 241, and 376.
+* ⓑ The whole numbers are 0, 2, 9, 241, and 376.
+
+TRY IT 1.2: Text
+
+Which of the following are ⓐ counting numbers ⓑ whole numbers?
+
+0, $\frac{5}{3}$, 7, 8.8, 13, 201
+
+Solution:
+
+* ⓐ The counting numbers are 7, 13, and 201.
+* ⓑ The whole numbers are 0, 7, 13, and 201.
 
 Model Whole Numbers
 
 Our number system is called a place value system because the value of a digit depends on its position, or place, in a number. The number 537 has a different value than the number 735. Even though they use the same digits, their value is different because of the different placement of the 7 and the 5.
 
-Money gives us a familiar model of place value. Suppose a wallet contains three $100 bills, seven $10 bills, and four $1 bills. The amounts are summarized in . How much money is in the wallet?
+Money gives us a familiar model of place value. Suppose a wallet contains three $100 bills, seven $10 bills, and four $1 bills. The amounts are summarized in Figure 1.3. How much money is in the wallet?
+
+Figure 1.3: Picture
 
 ![Figure](../images/CNX_BMath_Figure_01_01_002.jpg)
-**
 
 Find the total value of each kind of bill, and then add to find the total. The wallet contains $374.
 
-Base-10 blocks provide another way to model place value, as shown in . The blocks can be used to represent hundreds, tens, and ones. Notice that the tens rod is made up of 10 ones, and the hundreds square is made of 10 tens, or 100 ones.
+Base-10 blocks provide another way to model place value, as shown in Figure 1.4. The blocks can be used to represent hundreds, tens, and ones. Notice that the tens rod is made up of 10 ones, and the hundreds square is made of 10 tens, or 100 ones.
+
+Figure 1.4: Picture
 
 ![Figure](../images/CNX_BMath_Figure_01_01_004.jpg)
-**
 
- shows the number 138 modeled with base-10 blocks.
+Figure 1.5 shows the number 138 modeled with base-10 blocks.
+
+Figure 1.5: Picture
 
 ![Figure](../images/CNX_BMath_Figure_01_01_005.jpg)
-**
 
-Digit
-Place value
-Number
-Value
-Total value
-
-1
-hundreds
-1
-100
-100
-
-3
-tens
-3
-10
-30
-
-8
-ones
-8
-1
-+8
-
-Sum = 138
+EXAMPLE 1.2: Text
 
 Use place value notation to find the value of the number modeled by the base-10 blocks shown.
 
-Solution
+Solution:
 
-There are 2 hundreds squares, which is 200.
-
-There is 1 tens rod, which is 10.
-
-There are 5 ones blocks, which is 5.
-
-Digit
-Place value
-Number
-Value
-Total value
-
-2
-hundreds
-2
-100
-200
-
-1
-tens
-1
-10
-10
-
-5
-ones
-5
-1
-+5
-
-215
+200 + 10 + 5
 
 The base-10 blocks model the number 215.
 
-Use place value notation to find the value of the number modeled by the base-10 blocks shown.
-
-176
+TRY IT 1.3: Text
 
 Use place value notation to find the value of the number modeled by the base-10 blocks shown.
 
-237
+Solution:
+
+100 + 70 + 6
+
+TRY IT 1.4: Text
+
+Use place value notation to find the value of the number modeled by the base-10 blocks shown.
+
+Solution:
+
+200 + 30 + 7
 
 Doing the Manipulative Mathematics activity Number Line-Part 1 will help you develop a better understanding of the counting numbers and the whole numbers.
 
@@ -228,8 +144,9 @@ By looking at money and base-10 blocks, we saw that each place in a number has a
 
 Just as with the base-10 blocks, where the value of the tens rod is ten times the value of the ones block and the value of the hundreds square is ten times the tens rod, the value of each place in the place-value chart is ten times the value of the place to the right of it.
 
- shows how the number 5,278,194 is written in a place value chart.
+Figure 1.6 shows how the number 5,278,194 is written in a place value chart.
 
+Figure 1.6: Picture
 ![Figure](../images/CNX_BMath_Figure_01_01_011.jpg)
 **
 
@@ -241,23 +158,25 @@ Just as with the base-10 blocks, where the value of the tens rod is ten times th
 * The digit 9 is in the tens place. Its value is 90.
 * The digit 4 is in the ones place. Its value is 4.
 
+EXAMPLE 1.3: Text
+
 In the number 63,407,218; find the place value of each of the following digits:
 
 * ⓐ 7
-*  ⓑ 0
-*  ⓒ 1 
+* ⓑ 0
+* ⓒ 1 
 * ⓓ 6 
 * ⓔ 3
 
-Solution
+Solution:
 
-Write the number in a place value chart, starting at the right.
+* ⓐ 7 is in the thousands place.
+* ⓑ 0 is in the ten thousands place.
+* ⓒ 1 is in the tens place.
+* ⓓ 6 is in the ten millions place.
+* ⓔ 3 is in the millions place.
 
-* ⓐ The 7 is in the thousands place.
-* ⓑ The 0 is in the ten thousands place.
-* ⓒ The 1 is in the tens place.
-* ⓓ The 6 is in the ten millions place.
-* ⓔ The 3 is in the millions place.
+TRY IT 1.5: Text
 
 For each number, find the place value of digits listed: 27,493,615
 
@@ -267,11 +186,15 @@ For each number, find the place value of digits listed: 27,493,615
 * ⓓ 7
 * ⓔ 5
 
-* ⓐ ten millions
-* ⓑ tens
-* ⓒ hundred thousands
-* ⓓ millions
-* ⓔ ones
+Solution:
+
+* ⓐ 2 is in the ten millions place.
+* ⓑ 1 is in the tens place.
+* ⓒ 4 is in the hundred thousands place.
+* ⓓ 7 is in the millions place.
+* ⓔ 5 is in the ones place.
+
+TRY IT 1.6: Text
 
 For each number, find the place value of digits listed: 519,711,641,328
 
@@ -281,11 +204,13 @@ For each number, find the place value of digits listed: 519,711,641,328
 * ⓓ 6
 * ⓔ 7
 
-* ⓐ billions
-* ⓑ ten thousands
-* ⓒ tens
-* ⓓ hundred thousands
-* ⓔ hundred millions
+Solution:
+
+* ⓐ 9 is in the billions place.
+* ⓑ 4 is in the ten thousands place.
+* ⓒ 2 is in the tens place.
+* ⓓ 6 is in the hundred thousands place.
+* ⓔ 7 is in the hundred millions place.
 
 Use Place Value to Name Whole Numbers
 
@@ -303,44 +228,37 @@ Name a whole number in words.
 * Starting at the digit on the left, name the number in each period, followed by the period name. Do not include the period name for the ones.
 * Use commas in the number to separate the periods.
 
+EXAMPLE 1.4: Text
+
 Name the number 8,165,432,098,710 in words.
 
-Solution
+Solution:
 
-  
-    Begin with the leftmost digit, which is 8. It is in the trillions place.
-    eight trillion
-  
-  
-    The next period to the right is billions.
-    one hundred sixty-five billion
-  
-  
-    The next period to the right is millions.
-    four hundred thirty-two million
-  
-  
-    The next period to the right is thousands.
-    ninety-eight thousand
-  
-  
-    The rightmost period shows the ones.
-    seven hundred ten
-  
+eight trillion, one hundred sixty-five billion, four hundred thirty-two million, ninety-eight thousand, seven hundred ten
 
 Putting all of the words together, we write 8,165,432,098,710 as eight trillion, one hundred sixty-five billion, four hundred thirty-two million, ninety-eight thousand, seven hundred ten.
 
+TRY IT 1.7: Text
+
 Name each number in words: 9,258,137,904,061
+
+Solution:
 
 nine trillion, two hundred fifty-eight billion, one hundred thirty-seven million, nine hundred four thousand, sixty-one
 
+TRY IT 1.8: Text
+
 Name each number in words: 17,864,325,619,004
+
+Solution:
 
 seventeen trillion, eight hundred sixty-four billion, three hundred twenty-five million, six hundred nineteen thousand, four
 
+EXAMPLE 1.5: Text
+
 A student conducted research and found that the number of mobile phone users in the United States during one month in 2014 was 327,577,529. Name that number in words.
 
-Solution
+Solution:
 
 Identify the periods associated with the number.
 
@@ -354,13 +272,21 @@ Ones period: five hundred twenty-nine
 
 So the number of mobile phone users in the Unites States during the month of April was three hundred twenty-seven million, five hundred seventy-seven thousand, five hundred twenty-nine.
 
+TRY IT 1.6: Text
+
 The population in a country is 316,128,839. Name that number.
+
+Solution:
 
 three hundred sixteen million, one hundred twenty-eight thousand, eight hundred thirty-nine
 
+TRY IT 1.7: Text
+
 One year is 31,536,000 seconds. Name that number.
 
-thirty-one million, five hundred thirty-six thousand
+Solution:
+
+thirty-one million, five hundred thirty-six
 
 Use Place Value to Write Whole Numbers
 
@@ -372,80 +298,84 @@ Use place value to write a whole number.
 * Draw three blanks to indicate the number of places needed in each period. Separate the periods by commas.
 * Name the number in each period and place the digits in the correct place value position.
 
+EXAMPLE 1.6: Text
+
 Write the following numbers using digits.
 
 * ⓐ fifty-three million, four hundred one thousand, seven hundred forty-two
 * ⓑ nine billion, two hundred forty-six million, seventy-three thousand, one hundred eighty-nine
 
-Solution
+Solution:
 
-ⓐ Identify the words that indicate periods.
-
-Except for the first period, all other periods must have three places. Draw three blanks to indicate the number of places needed in each period. Separate the periods by commas.
-
-Then write the digits in each period.
-
-Put the numbers together, including the commas. The number is 53,401,742.
-
-ⓑ Identify the words that indicate periods.
-
-Except for the first period, all other periods must have three places. Draw three blanks to indicate the number of places needed in each period. Separate the periods by commas.
-
-Then write the digits in each period.
-
-The number is 9,246,073,189.
+ⓐ 53,401,742
+ⓑ 9,246,073,189
 
 Notice that in part ⓑ , a zero was needed as a place-holder in the hundred thousands place. Be sure to write zeros as needed to make sure that each period, except possibly the first, has three places.
+
+TRY IT 1.11: Text
 
 Write each number in standard form:
 
 fifty-three million, eight hundred nine thousand, fifty-one.
 
-53,809,051
+Solution: 53,809,051
+
+TRY IT 1.12: Text
 
 Write each number in standard form:
 
 two billion, twenty-two million, seven hundred fourteen thousand, four hundred sixty-six.
 
-2,022,714,466
+Solution: 2,022,714,466
+
+EXAMPLE 1.7: Text
 
 A state budget was about $77 billion. Write the budget in standard form.
 
-Solution
+Solution:
+77,000,000,000
 
 Identify the periods. In this case, only two digits are given and they are in the billions period. To write the entire number, write zeros for all of the other periods.
 
 So the budget was about $77,000,000,000.
 
+TRY IT 1.13: Text
 Write each number in standard form:
 
 The closest distance from Earth to Mars is about 34 million miles.
 
-34,000,000 miles
+Solution: 34,000,000 miles.
+
+TRY IT 1.14: Text
 
 Write each number in standard form:
 
 The total weight of an aircraft carrier is 204 million pounds.
 
-204,000,000 pounds
+Solution: 204,000,000 pounds.
 
 Round Whole Numbers
 
 In 2013, the U.S. Census Bureau reported the population of the state of New York as 19,651,127 people. It might be enough to say that the population is approximately 20 million. The word *approximately* means that 20 million is not the exact population, but is close to the exact value.
 
-The process of approximating a number is called rounding. Numbers are rounded to a specific place value depending on how much accuracy is needed. 20 million was achieved by rounding to the millions place. Had we rounded to the one hundred thousands place, we would have 19,700,000 as a result. Had we rounded to the ten thousands place, we would have 19,650,000 as a result, and so on. The place value to which we round to depends on how we need to use the number.
+The process of approximating a number is called **rounding**. Numbers are rounded to a specific place value depending on how much accuracy is needed. 20 million was achieved by rounding to the millions place. Had we rounded to the one hundred thousands place, we would have 19,700,000 as a result. Had we rounded to the ten thousands place, we would have 19,650,000 as a result, and so on. The place value to which we round to depends on how we need to use the number.
 
-Using the number line can help you visualize and understand the rounding process. Look at the number line in . Suppose we want to round the number 76 to the nearest ten. Is 76 closer to 70 or 80 on the number line?
+Using the number line can help you visualize and understand the rounding process. Look at the number line in Figure 1.7. Suppose we want to round the number 76 to the nearest ten. Is 76 closer to 70 or 80 on the number line?
 
+Figure 1.7: Picture
 ![Figure](../images/CNX_BMath_Figure_01_01_019.jpg)
-**
 
-Now consider the number 72. Find 72 in .
+
+Now consider the number 72. Find 72 in Figure 1.8.
+
+Figure 1.8: Picture
 
 ![Figure](../images/CNX_BMath_Figure_01_01_020.jpg)
 **
 
-How do we round 75 to the nearest ten. Find 75 in .
+How do we round 75 to the nearest ten. Find 75 in Figure 1.9.
+
+Figure 1.9: Picture
 
 ![Figure](../images/CNX_BMath_Figure_01_01_021.jpg)
 **
@@ -473,85 +403,59 @@ Round a whole number to a specific place value.
 
 * Replace all digits to the right of the given place value with zeros.
 
+EXAMPLE 1.8: Text
+
 Round 843 to the nearest ten.
 
-Solution
+Solution:
 
+840
   
-    Locate the tens place.
-    
-
-  
-  
-    Underline the digit to the right of the tens place.
-    
-
-  
-  
-    Since 3 is less than 5, do not change the digit in the tens place.
-    
-
-  
-  
-    Replace all digits to the right of the tens place with zeros.
-    
-
-  
-  
-     
-     Rounding 843 to the nearest ten gives 840.
-  
+TRY IT 1.15: Text
 
 Round to the nearest ten: 157.
 
+Solution:
+
 160
+
+TRY IT 1.16: Text
 
 Round to the nearest ten: 884.
 
+Solution:
+
 880
+
+EXAMPLE 1.9: Text
 
 Round each number to the nearest hundred:
 
 * ⓐ 23,658
 * ⓑ 3,978
 
-Solution
+Solution:
 
- 
-ⓐ 
+ⓐ 23,700
+ⓑ 4,000
   
-    Locate the hundreds place.
-    
-  
-  
-    The digit to the right of the hundreds place is 5. Underline the digit to the right of the hundreds place.
-    
-  
-  
-    Since 5 is greater than or equal to 5, round up by adding 1 to the digit in the hundreds place. Then replace all digits to the right of the hundreds place with zeros.
-    So 23,658 rounded to the nearest hundred is 23,700.
-  
-
-  ⓑ 
-    Locate the hundreds place.
-    
-  
-  
-    Underline the digit to the right of the hundreds place.
-    
-  
-  
-    The digit to the right of the hundreds place is 7. Since 7 is greater than or equal to 5, round up by adding 1 to the 9. Then place all digits to the right of the hundreds place with zeros.
-    So 3,978 rounded to the nearest hundred is 4,000.
-  
+TRY IT 1.17: Text
 
 Round to the nearest hundred: 17,852.
 
+Solution:
+
 17,900
+
+TRY IT 1.18: Text
 
 Round to the nearest hundred: 4,951.
 
+Solution:
+
 5,000
+
+EXAMPLE 1.10: Text
 
 Round each number to the nearest thousand:
 
@@ -560,41 +464,22 @@ Round each number to the nearest thousand:
 
 Solution
 
-  ⓐ 
-    Locate the thousands place. Underline the digit to the right of the thousands place.
+* ⓐ 147,000
+* ⓑ 30,000
 
-    
-  
-  
-    The digit to the right of the thousands place is 0. Since 0 is less than 5, we do not change the digit in the thousands place.
-
-    
-  
-  
-    We then replace all digits to the right of the thousands pace with zeros.
-
-    So 147,032 rounded to the nearest thousand is 147,000.
-  
-
-  ⓑ 
-    Locate the thousands place.
-    
-  
-  
-    Underline the digit to the right of the thousands place.
-    
-  
-  
-    The digit to the right of the thousands place is 5. Since 5 is greater than or equal to 5, round up by adding 1 to the 9. Then replace all digits to the right of the thousands place with zeros.
-    So 29,504 rounded to the nearest thousand is 30,000.
-
-Notice that in part ⓑ , when we add 1 thousand to the 9 thousands, the total is 10 thousands. We regroup this as 1 ten thousand and 0 thousands. We add the 1 ten thousand to the 2 ten thousands and put a 0 in the thousands place.
+TRY IT 1.19: Text
 
 Round to the nearest thousand: 63,921.
 
+Solution:
+
 64,000
 
+TRY IT 1.20: Text
+
 Round to the nearest thousand: 156,437.
+
+Solution:
 
 156,000
 
@@ -626,39 +511,51 @@ Key Concepts
 * Determine if this digit is greater than or equal to 5. If yes—add 1 to the digit in the given place value. If that digit is 9, replace it with 0 and add 1 to the digit immediately to its left. If that digit is also a 9, repeat. If no—do not change the digit in the given place value.
 * Replace all digits to the right of the given place value with zeros.
 
+SECTION 1.1 EXERCISES: Text
+
 Practice Makes Perfect
 
 **Identify Counting Numbers and Whole Numbers** 
 
 In the following exercises, determine which of the following numbers are ⓐ counting numbers ⓑ whole numbers.
 
-0,23,5,8.1,125
+1# 0, $\frac{2}{3}$, 5, 8.1, 125
 
-* ⓐ 5, 125
-* ⓑ 0, 5, 125
+* ⓐ The counting numbers are 5 and 125.
+* ⓑ The whole numbers are 0, 5, and 125.
 
-0,710,3,20.5,300
+2# 0, $\frac{7}{10}$, 3, 20.5, 300
 
-0,49,3.9,50,221
+* ⓐ The counting numbers are 3 and 300.
+* ⓑ The whole numbers are 0, 3, and 300.
 
-* ⓐ 50, 221
-* ⓑ 0, 50, 221
+3# 0, $\frac{4}{9}$, 3.9, 50, 221
 
-0,35,10,303,422.6
+* ⓐ The counting numbers are 50 and 221.
+* ⓑ The whole numbers are 0, 50, and 221.
+
+4# 0, $\frac{3}{5}$, 10, 303, 422.6
+
+* ⓐ The counting numbers are 10 and 303.
+* ⓑ The whole numbers are 0, 10, and 303.
 
 **Model Whole Numbers** 
 
 In the following exercises, use place value notation to find the value of the number modeled by the base-10 blocks.
 
-561
+5# 5 hundreds, 6 tens, 1 ones
 
-407
+6# 3 hundreds, 8 tens, 4 ones
+
+7# 4 hundreds, 6 tens,1 ones
+
+8# 6 hundreds, 2 tens
 
 **Identify the Place Value of a Digit** 
 
 In the following exercises, find the place value of the given digits.
 
-579,601
+9# 579,601
 
 * ⓐ 9
 * ⓑ 6
@@ -666,13 +563,15 @@ In the following exercises, find the place value of the given digits.
 * ⓓ 7
 * ⓔ 5
 
-* ⓐ thousands
-* ⓑ hundreds
-* ⓒ tens
-* ⓓ ten thousands
-* ⓔ hundred thousands
+Solution:
 
-398,127
+* ⓐ 9 thousands
+* ⓑ 6 hundreds
+* ⓒ 0 tens
+* ⓓ 7 ten thousands
+* ⓔ 5 hundred thousands
+
+10# 398,127
 
 * ⓐ 9
 * ⓑ 3
@@ -680,7 +579,15 @@ In the following exercises, find the place value of the given digits.
 * ⓓ 8
 * ⓔ 7
 
-56,804,379
+Solution:
+
+* ⓐ 9 ten thousands
+* ⓑ 3 hundred thousands
+* ⓒ 2 tens
+* ⓓ 8 thousands
+* ⓔ 7 ones
+
+11# 56,804,379
 
 * ⓐ 8
 * ⓑ 6
@@ -688,13 +595,15 @@ In the following exercises, find the place value of the given digits.
 * ⓓ 7
 * ⓔ 0
 
-* ⓐ hundred thousands
-* ⓑ millions
-* ⓒ thousands
-* ⓓ tens
-* ⓔ ten thousands
+Solution:
 
-78,320,465
+* ⓐ 8 hundred thousands
+* ⓑ 6 millions
+* ⓒ 4 thousands
+* ⓓ 7 tens
+* ⓔ 0 ten thousands
+
+12# 78,320,465
 
 * ⓐ 8
 * ⓑ 4
@@ -702,204 +611,362 @@ In the following exercises, find the place value of the given digits.
 * ⓓ 6
 * ⓔ 7
 
+Solution:
+
+* ⓐ 8 millions
+* ⓑ 4 hundreds
+* ⓒ 2 ten thousands
+* ⓓ 6 tens
+* ⓔ 7 ten millions
+
 **Use Place Value to Name Whole Numbers** 
 
 In the following exercises, name each number in words.
 
-1,078
+13# 1,078
 
-One thousand, seventy-eight
+Solution:
 
-5,902
+one thousand, seventy-eight
 
-364,510
+14# 5,902
 
-Three hundred sixty-four thousand, five hundred ten
+Solution:
 
-146,023
+five thousand, nine hundred, two
 
-5,846,103
+15# 364,510
 
-Five million, eight hundred forty-six thousand, one hundred three
+Solution:
 
-1,458,398
+three hundred sixty-four thousand, five hundred ten
 
-37,889,005
+16# 146,023
 
-Thirty seven million, eight hundred eighty-nine thousand, five
+Solution:
 
-62,008,465
+one hundred forty-six thousand, twenty-three
 
-The height of Mount Rainier is 14,410 feet.
+17# 5,846,103
 
-Fourteen thousand, four hundred ten
+Solution:
 
-The height of Mount Adams is 12,276 feet.
+five million, eight hundred forty-six, one hundred three
 
-Seventy years is 613,200 hours.
+18# 1,458,398
 
-Six hundred thirteen thousand, two hundred
+Solution:
 
-One year is 525,600 minutes.
+one million, four hundred fifty-eight thousand, three hundred ninety-eight
 
-The U.S. Census estimate of the population of Miami-Dade county was 2,617,176.
+19# 37,889,005
 
-Two million, six hundred seventeen thousand, one hundred seventy-six
+Solution:
 
-The population of Chicago was 2,718,782.
+thirty-seven million, eight hundred eighty-nine thousand, five
 
-There are projected to be 23,867,000 college and university students in the US in five years.
+20# 62,008,465
 
-Twenty three million, eight hundred sixty-seven thousand
+Solution:
 
-About twelve years ago there were 20,665,415 registered automobiles in California.
+sixty-two million, eight thousand, four hundred sixty-five
 
-The population of China is expected to reach 1,377,583,156 in 2016.
+21# The height of Mount Rainier is 14,410 feet.
 
-One billion, three hundred seventy-seven million, five hundred eighty-three thousand, one hundred fifty-six
+Solution:
 
-The population of India is estimated at 1,267,401,849 as of July 1,2014.
+fourteen thousand, four hundred ten
+
+22# The height of Mount Adams is 12,276 feet.
+
+Solution:
+
+twelve thousand, two hundred seventy-six
+
+23# Seventy years is 613,200 hours.
+
+Solution:
+
+six hundred thirteen thousand, two hundred
+
+24# One year is 525,600 minutes.
+
+Solution:
+
+five hundred twenty-five thousand, six hundred
+
+25# The U.S. Census estimate of the population of Miami-Dade county was 2,617,176.
+
+Solution:
+
+two million, six hundred seventeen thousand, one hundred seventy-six
+
+26# The population of Chicago was 2,718,782.
+
+Solution:
+
+two million, seven hundred eighteen thousand, seven hundred eighty-two
+
+27# There are projected to be 23,867,000 college and university students in the US in five years.
+
+Solution:
+
+twenty-three million, eight hundred sixty-seven thousand
+
+28# About twelve years ago there were 20,665,415 registered automobiles in California.
+
+Solution:
+
+twenty million, six hundred sixty-five thousand, four hundred fifteen
+
+29# The population of China is expected to reach 1,377,583,156 in 2016.
+
+Solution:
+
+one billion, three hundred seventy-seven million, five hundred eighty-three thousand, one hundred fifty-six
+
+30# The population of India is estimated at 1,267,401,849 as of July 1,2014.
+
+Solution:
+
+one billion, two hundred sixty-seven million, four hundred one thousand, eight hundred forty-nine
 
 **Use Place Value to Write Whole Numbers** 
 
 In the following exercises, write each number as a whole number using digits.
 
-four hundred twelve
+31# four hundred twelve
+
+Solution:
 
 412
 
-two hundred fifty-three
+32# two hundred fifty-three
 
-thirty-five thousand, nine hundred seventy-five
+Solution:
+
+253
+
+33# thirty-five thousand, nine hundred seventy-five
+
+Solution:
 
 35,975
 
-sixty-one thousand, four hundred fifteen
+34# sixty-one thousand, four hundred fifteen
 
-eleven million, forty-four thousand, one hundred sixty-seven
+Solution:
+
+61,415
+
+35# eleven million, forty-four thousand, one hundred sixty-seven
+
+Solution:
 
 11,044,167
 
-eighteen million, one hundred two thousand, seven hundred eighty-three
+36# eighteen million, one hundred two thousand, seven hundred eighty-three
 
-three billion, two hundred twenty-six million, five hundred twelve thousand, seventeen
+Solution:
+
+18,102,783
+
+37# three billion, two hundred twenty-six million, five hundred twelve thousand, seventeen
+
+Solution:
 
 3,226,512,017
 
-eleven billion, four hundred seventy-one million, thirty-six thousand, one hundred six
+38# eleven billion, four hundred seventy-one million, thirty-six thousand, one hundred six
 
-The population of the world was estimated to be seven billion, one hundred seventy-three million people.
+Solution:
+
+11,471,036,106
+
+39# The population of the world was estimated to be seven billion, one hundred seventy-three million people.
+
+Solution:
 
 7,173,000,000
 
-The age of the solar system is estimated to be four billion, five hundred sixty-eight million years.
+40# The age of the solar system is estimated to be four billion, five hundred sixty-eight million years.
 
-Lake Tahoe has a capacity of thirty-nine trillion gallons of water.
+Solution:
+
+4,568,000,000
+
+41# Lake Tahoe has a capacity of thirty-nine trillion gallons of water.
+
+Solution:
 
 39,000,000,000,000
 
-The federal government budget was three trillion, five hundred billion dollars.
+42# The federal government budget was three trillion, five hundred billion dollars.
+
+Solution:
+
+3,500,000,000,000
 
 **Round Whole Numbers** 
 
 In the following exercises, round to the indicated place value.
 
-Round to the nearest ten: 
+43# Round to the nearest ten: 
 * ⓐ 386 
 * ⓑ 2,931
 
-* ⓐ 390
+Solution:
+
+* ⓐ 390 
 * ⓑ 2,930
 
-Round to the nearest ten: 
+44# Round to the nearest ten: 
 * ⓐ 792 
 * ⓑ 5,647
 
-Round to the nearest hundred: 
+Solution:
+
+* ⓐ 790 
+* ⓑ 5,650
+
+45# Round to the nearest hundred: 
 * ⓐ 13,748 
 * ⓑ 391,794
+
+Solution:
+
+* ⓐ 13,700 
+* ⓑ 391,800
 
 * ⓐ 13,700
 * ⓑ 391,800
 
-Round to the nearest hundred:
+46# Round to the nearest hundred:
 * ⓐ 28,166 
 * ⓑ 481,628
 
-Round to the nearest ten:
+Solution:
 
-  
+* ⓐ 28,200
+* ⓑ 481,600
+
+47# Round to the nearest ten:
+
 * ⓐ 1,492 
 * ⓑ 1,497
 
-* ⓐ 1,490
+Solution:
+
+* ⓐ 1,490 
 * ⓑ 1,500
 
-Round to the nearest thousand: 
+48# Round to the nearest thousand: 
+
 * ⓐ 2,391 
 * ⓑ 2,795 
 
-Round to the nearest hundred: 
+Solution:
+
+* ⓐ 2,000 
+* ⓑ 3,000 
+
+49# Round to the nearest hundred: 
+
 * ⓐ 63,994
-* ⓑ 63,949  
+* ⓑ 63,949
+
+Solution:
 
 * ⓐ 64,000
 * ⓑ 63,900
 
-Round to the nearest thousand:
+50# Round to the nearest thousand:
+
 * ⓐ 163,584
 * ⓑ 163,246
 
+Solution:
+
+* ⓐ 164,000
+* ⓑ 163,000
+
 Everyday Math
 
-**Writing a Check** Jorge bought a car for $24,493. He paid for the car with a check. Write the purchase price in words.
+51# **Writing a Check** Jorge bought a car for $24,493. He paid for the car with a check. Write the purchase price in words.
 
-Twenty four thousand, four hundred ninety-three dollars
+Solution:
 
-**Writing a Check** Marissa’s kitchen remodeling cost $18,549. She wrote a check to the contractor. Write the amount paid in words.
+twenty-four thousand, four hundred ninety-three dollars
 
-**Buying a Car** Jorge bought a car for $24,493. Round the price to the nearest:
+52# **Writing a Check** Marissa’s kitchen remodeling cost $18,549. She wrote a check to the contractor. Write the amount paid in words.
+
+Solution:
+
+eighteen thousand, five hundred forty-nine dollars
+
+53# **Buying a Car** Jorge bought a car for $24,493. Round the price to the nearest:
 
 * ⓐ ten dollars
 * ⓑ hundred dollars
 * ⓒ thousand dollars
 * ⓓ ten-thousand dollars
 
-* ⓐ $24,490
-* ⓑ $24,500 
-* ⓒ $24,000 
+Solution:
+
+* ⓐ $24,490 
+* ⓑ $24,500
+* ⓒ $24,000
 * ⓓ $20,000
 
-**Remodeling a Kitchen** Marissa’s kitchen remodeling cost $18,549. Round the cost to the nearest:
+54# **Remodeling a Kitchen** Marissa’s kitchen remodeling cost $18,549. Round the cost to the nearest:
 
 * ⓐ ten dollars
 * ⓑ hundred dollars
 * ⓒ thousand dollars
 * ⓓ ten-thousand dollars
 
-**Population** The population of China was 1,355,692,544 in 2014. Round the population to the nearest:
+Solution:
+
+* ⓐ $18,550
+* ⓑ $18,500
+* ⓒ $19,000
+* ⓓ $20,000
+
+55# **Population** The population of China was 1,355,692,544 in 2014. Round the population to the nearest:
 
 * ⓐ billion people
 * ⓑ hundred-million people
 * ⓒ million people
 
+Solution:
+
 * ⓐ 1,000,000,000
 * ⓑ 1,400,000,000
 * ⓒ 1,356,000,000
 
-**Astronomy** The average distance between Earth and the sun is 149,597,888 kilometers. Round the distance to the nearest:
+56# **Astronomy** The average distance between Earth and the sun is 149,597,888 kilometers. Round the distance to the nearest:
 
 * ⓐ hundred-million kilometers
 * ⓑ ten-million kilometers
 * ⓒ million kilometers
 
+Solution:
+
+* ⓐ 100,000,000
+* ⓑ 150,000,000
+* ⓒ 150,000,000
+
 Writing Exercises
 
-In your own words, explain the difference between the counting numbers and the whole numbers.
+57# In your own words, explain the difference between the counting numbers and the whole numbers.
 
-Answers may vary. The whole numbers are the counting numbers with the inclusion of zero.
+Solution:
 
-Give an example from your everyday life where it helps to round numbers.
+The counting numbers or natural numbers are counted like 1, 2, 3, 4, 5, 6... to infinity. The whole numbers are the same but with the zero included.
+
+58# Give an example from your everyday life where it helps to round numbers.
+
+When shopping in a groceries store it helps to round prices to have an estimate of the expenses.
 
 Self Check
 
@@ -907,7 +974,6 @@ Self Check
 evaluate your mastery of the objectives of this section. 
 
 ![Figure](../images/CNX_BMath_Figure_AppB_001.jpg)
-**
 
 ⓑ If most of your checks were... 
 
@@ -932,25 +998,25 @@ quickly be overwhelmed. See your instructor as soon as you
 can to discuss your situation. Together you can come up
 with a plan to get you the help you need.
 
-coordinate
+**coordinate**
 A number paired with a point on a number line is called the coordinate of the point.
 
-counting numbers
+**counting numbers**
 The counting numbers are the numbers 1, 2, 3, …. 
 
-number line
+**number line**
 A number line is used to visualize numbers. The numbers on the number line get larger as they go from left to right, and smaller as they go from right to left.
 
-origin
+**origin**
 The origin is the point labeled 0 on a number line.
 
-place value system
+**place value system**
 Our number system is called a place value system because the value of a digit depends on its position, or place, in a number.
 
-rounding
+**rounding**
 The process of approximating a number is called rounding.
 
-whole numbers
+**whole numbers**
 The whole numbers are the numbers 0, 1, 2, 3, ….
 
 ### 1.2 Add Whole Numbers
@@ -967,16 +1033,24 @@ By the end of this section, you will be able to:
 
   8069044b-6fb1-49bf-b03a-64988f9b1ddd
 
+BE PREPARED 1.1: Text
+
 Before you get started, take this readiness quiz.
 
 What is the number modeled by the base-10 blocks?
 
-If you missed this problem, review .
+If you missed this problem, review Example 1.2.
+
+Solution:
 
 215
 
+BE PREPARED 1.2: Text
+
 Write the number three hundred forty-two thousand six using digits?
-If you missed this problem, review .
+If you missed this problem, review Example 1.7.
+
+Solution:
 
 342,006
 
@@ -984,7 +1058,7 @@ Use Addition Notation
 
 A college student has a part-time job. Last week he worked 3 hours on Monday and 4 hours on Friday. To find the total number of hours he worked last week, he added 3 and 4.
 
-The operation of addition combines numbers to get a sum. The notation we use to find the sum of 3 and 4 is:
+The operation of addition combines numbers to get a **sum**. The notation we use to find the sum of 3 and 4 is:
 
 3+4
 
@@ -1006,30 +1080,41 @@ Addition
 three plus four
 the sum of 3 and 4
 
+EXAMPLE 1.11: Text
+
 Translate from math notation to words:
+
 * ⓐ 7+1
 * ⓑ 12+14
 
-Solution
+Solution:
 
-* ⓐ The expression consists of a plus symbol connecting the addends 7 and 1. We read this as *seven plus one*. The result is *the sum of seven and one*.
-* ⓑ The expression consists of a plus symbol connecting the addends 12 and 14. We read this as *twelve plus fourteen*. The result is the *sum of twelve and fourteen*.
+* ⓐ seven plus one or the sum of seven and one
+* ⓑ twelve plus fourteen or the sum of twelve and fourteen
+
+TRY IT 1.21: Text
 
 Translate from math notation to words:
 
 * ⓐ 8+4
 * ⓑ 18+11
 
-* ⓐ eight plus four; the sum of eight and four
-* ⓑ eighteen plus eleven; the sum of eighteen and eleven
+Solution:
+
+* ⓐ eight plus four or the sum of eight and four
+* ⓑ eighteen plus eleven or the sum of eighteen and eleven
+
+TRY IT 1.22: Text
 
 Translate from math notation to words:
 
 * ⓐ 21+16
 * ⓑ 100+200
 
-* ⓐ twenty-one plus sixteen; the sum of twenty-one and sixteen
-* ⓑ one hundred plus two hundred; the sum of one hundred and two hundred
+Solution:
+
+* ⓐ twenty-one plus sixteen or the sum of twenty-one and sixteen
+* ⓑ one hundred plus two hundred or the sum of one hundred and two hundred
 
 Model Addition of Whole Numbers
 
@@ -1054,6 +1139,8 @@ There are 7 blocks in all. We use an equal sign (=) to show the sum. A math sent
 
 Doing the Manipulative Math Worksheets activity “Model Addition of Whole Numbers” will help you develop a better understanding of adding whole numbers.
 
+EXAMPLE 1.12: Text
+
 Model the addition 2+6.
 
 Solution
@@ -1074,12 +1161,23 @@ Each addend is less than 10, so we can use ones blocks.
     Count the total number of blocks
     There are 8 blocks in all, so 2+6=8.
   
+TRY IT 1.23: Text
 
-Model: 3+6.
+Model: 3 + 6.
 
-Model: 5+1.
+Solution: 3 + 6 = 9
+
+TRY IT 1.24:Text
+
+Model: 5 + 1.
+
+Solution:
+
+5 + 1 = 6
 
 When the result is 10 or more ones blocks, we will exchange the 10 blocks for one rod.
+
+EXAMPLE 1.13: Text
 
 Model the addition 5+8.
 
@@ -1110,15 +1208,21 @@ Solution
 
 Notice that we can describe the models as ones blocks and tens rods, or we can simply say *ones* and *tens*. From now on, we will use the shorter version but keep in mind that they mean the same thing.
 
+TRY IT 1.25: Picture
+
 Model the addition: 5+7.
+
+TRY IT 1.26: Picture
 
 Model the addition: 6+8.
 
 Next we will model adding two digit numbers.
 
+EXAMPLE 1.14: Picture
+
 Model the addition: 17+26.
 
-Solution
+Solution:
 
 17+26 means the sum of 17 and 26.
 
@@ -1148,8 +1252,11 @@ Solution
     
     
   
+TRY IT 1.27: Picture
 
 Model the addition: 15+27.
+
+TRY IT 1.28: Picture
 
 Model the addition: 16+29.
 
@@ -1157,207 +1264,69 @@ Add Whole Numbers Without Models
 
 Now that we have used models to add numbers, we can move on to adding without models. Before we do that, make sure you know all the one digit addition facts. You will need to use these number facts when you add larger numbers.
 
-Imagine filling in  by adding each row number along the left side to each column number across the top. Make sure that you get each sum shown. If you have trouble, model it. It is important that you memorize any number facts you do not already know so that you can quickly and reliably use the number facts when you add larger numbers.
-
+Imagine filling in Table 1.1 by adding each row number along the left side to each column number across the top. Make sure that you get each sum shown. If you have trouble, model it. It is important that you memorize any number facts you do not already know so that you can quickly and reliably use the number facts when you add larger numbers.
   
-    +
-    0
-    1
-    2
-    3
-    4
-    5
-    6
-    7
-    8
-    9
-  
-
-  
-    0
-    0
-    1
-    2
-    3
-    4
-    5
-    6
-    7
-    8
-    9
-  
-  
-    1
-    1
-    2
-    3
-    4
-    5
-    6
-    7
-    8
-    9
-    10
-  
-  
-    2
-    2
-    3
-    4
-    5
-    6
-    7
-    8
-    9
-    10
-    11
-  
-  
-    3
-    3
-    4
-    5
-    6
-    7
-    8
-    9
-    10
-    11
-    12
-  
-  
-    4
-    4
-    5
-    6
-    7
-    8
-    9
-    10
-    11
-    12
-    13
-  
-  
-    5
-    5
-    6
-    7
-    8
-    9
-    10
-    11
-    12
-    13
-    14
-  
-  
-    6
-    6
-    7
-    8
-    9
-    10
-    11
-    12
-    13
-    14
-    15
-  
-  
-    7
-    7
-    8
-    9
-    10
-    11
-    12
-    13
-    14
-    15
-    16
-  
-  
-    8
-    8
-    9
-    10
-    11
-    12
-    13
-    14
-    15
-    16
-    17
-  
-  
-    9
-    9
-    10
-    11
-    12
-    13
-    14
-    15
-    16
-    17
-    18
-  
-
 Did you notice what happens when you add zero to a number? The sum of any number and zero is the number itself. We call this the Identity Property of Addition. Zero is called the additive identity.
 
 Identity Property of Addition
 
 The sum of any number a and 0 is the number.
 
-a+0=a0+a=a
+a + 0 = a
+0 + a = a
+
+EXAMPLE 1.15: Text
 
 Find each sum: 
-* ⓐ 0+11
-* ⓑ 42+0
+* ⓐ 0 + 11
+* ⓑ 42 + 0
 
-Solution
+Solution:
 
+* ⓐ 0 + 11 = 11
+* ⓑ 42 + 0 = 42
+
+ⓐ The first addend is zero. The sum of any number and zero is the number. 0 + 11 = 11
   
-    ⓐ The first addend is zero. The sum of any number and zero is the number.
-    0+11=11
+ⓑ The second addend is zero. The sum of any number and zero is the number. 42 + 0 = 42
   
-  
-    ⓑ The second addend is zero. The sum of any number and zero is the number.
-    42+0=42
-  
+TRY IT 1.29:Text
 
 Find each sum: 
-* ⓐ 0+19
-* ⓑ 39+0
+* ⓐ 0 + 19
+* ⓑ 39 + 0
 
-* ⓐ 0+19=19
-* ⓑ 39+0=39
+Solution:
 
-Find each sum: 
-* ⓐ 0+24
-* ⓑ 57+0
+* ⓐ 0 + 19 = 19
+* ⓑ 39 + 0 = 39
 
-* ⓐ 0+24=24
-* ⓑ 57+0=57
+TRY IT 1.30: Text
+Addition, which states that changing the order
+of the addends does not change their sum.
+Find each sum:
+
+* ⓐ 0 + 24
+* ⓑ 57 + 0
+
+Solution:
+
+* ⓐ 0 + 24 = 24
+* ⓑ 57 + 0 = 57
 
 Look at the pairs of sums.
-
  
   
-    2+3=5
+2 + 3 = 5
+3 + 2 = 5
+  
+  
+4 + 7 = 11
+7 + 4 = 11
 
-    3+2=5
-  
-  
-    4+7=11
 
-    7+4=11
-  
-  
-    8+9=17
-
-    9+8=17
+8 + 9 = 17
+9 + 8 = 17
   
 
 Notice that when the order of the addends is reversed, the sum does not change. This property is called the Commutative Property of Addition, which states that changing the order of the addends does not change their sum.
@@ -1366,78 +1335,68 @@ Commutative Property of Addition
 
 Changing the order of the addends a and b does not change their sum.
 
-a+b=b+a
+a + b = b + a
+
+EXAMPLE 1.16: Text
 
 Add: 
 
 * ⓐ 8+7
 * ⓑ 7+8
 
-Solution
+Solution:
 
-* 
-
-  ⓐ 
-  
-    Add.
-    8+7
-  
-  
-    
-    15
-  
-
-* 
-
-  ⓑ 
-  
-    Add.
-    7+8
-  
-  
-    
-    15
-  
+* ⓐ 8 + 7 = 15
+* ⓑ 7 + 8 = 15
 
 Did you notice that changing the order of the addends did not change their sum? We could have immediately known the sum from part ⓑ just by recognizing that the addends were the same as in part ⓐ , but in the reverse order. As a result, both sums are the same.
 
-Add: 9+7 and 7+9.
+TRY IT 1.31: Text
 
-9+7=16; 7+9=16
+Add: 9 + 7 and 7 + 9.
+
+Solution:
+
+9 + 7 = 16
+7 + 9 = 16
+
+TRY IT 1.32: Text
 
 Add: 8+6 and 6+8.
 
-8+6=14; 6+8=14
+Solution:
+
+8 + 6 = 14
+6 + 8 = 14
+
+EXAMPLE 1.17: Text
 
 Add: 28+61.
 
-Solution
+Solution:
 
-To add numbers with more than one digit, it is often easier to write the numbers vertically in columns.
+28 + 61 = 89
 
-  
-    Write the numbers so the ones and tens digits line up vertically.
-    28
-+61____
-  
-  
-    Then add the digits in each place value. Add the ones: 8+1=9Add the tens: 2+6=8
-    28
-+61____89
-  
+TRY IT 1.33: Text
 
-Add: 32+54.
+Add: 32 + 54.
 
-32+54=86
+Solution:
+
+32 + 54 = 86
+
+TRY IT 1.34: Text
 
 Add: 25+74.
 
-25+74=99
+Solution:
 
-In the previous example, the sum of the ones and the sum of the tens were both less than 10. But what happens if the sum is 10 or more? Let’s use our base-10 model to find out.  shows the addition of 17 and 26 again.
+25 + 74 = 99
+
+In the previous example, the sum of the ones and the sum of the tens were both less than 10. But what happens if the sum is 10 or more? Let’s use our base-10 model to find out. Figure 1.10 shows the addition of 17 and 26 again.
 
 ![Figure](../images/CNX_BMath_Figure_01_02_001.jpg)
-**
+
 
 When we add the ones, 7+6, we get 13 ones. Because we have more than 10 ones, we can exchange 10 of the ones for 1 ten. Now we have 4 tens and 3 ones. Without using the model, we show this as a small red 1 above the digits in the tens place.
 
@@ -1449,106 +1408,334 @@ Add whole numbers.
 * Add the digits in each place value. Work from right to left starting with the ones place. If a sum in a place value is more than 9, carry to the next place value.
 * Continue adding each place value from right to left, adding each place value and carrying if needed.
 
-Add: 43+69.
+EXAMPLE 1.18: LaTeX
 
-Solution
+Add: 43 + 69.
 
+Solution:
+
+Write the numbers so the digits line up vertically.
+
+$$
+\begin{array}{r@{\quad}rr}
+       &    &   \\
+       & 4  & 3 \\
+    +  & 6  & 9 \\
+  \hline
+\end{array}
+$$
   
-    Write the numbers so the digits line up vertically.
-    43
-+69____
+Add the digits in each place. Add the ones: 3 + 9 = 12
+
+Write the 2 in the ones place in the sum.
+Add the 1 ten to the tens place.
+
+$$
+\begin{array}{r@{\quad}rr}
+    & \scriptstyle 1 &    \\
+	& 4              & 3  \\
+  + & 6              & 9  \\
+  \hline
+    &                & 2  \\
+\end{array}
+$$
+
+Now add the tens: 1 + 4 + 6 = 11
+Write the 11 in the sum.
+
+$$
+\begin{array}{r@{\quad}rr}
+    & \scriptstyle 1 &    \\
+	& 4              & 3  \\
+  + & 6              & 9  \\
+  \hline
+  1 & 1              & 2  \\
+\end{array}
+$$
+
+TRY IT 1.35: LaTeX
+
+Add: 35 + 98.
+
+Solution:
+
+$$
+\begin{array}{r@{\quad}rr}
+    & 3  & 5  \\
+  + & 9  & 8  \\
+  \hline
+\end{array}
+$$
+
+$$
+\begin{array}{r@{\quad}rr}
+    & \scriptstyle 1 &    \\
+    & 3             & 5  \\
+  + & 9             & 8  \\
+  \hline
+    &               & 3  \\
+\end{array}
+$$
+
+$$
+\begin{array}{r@{\quad}rr}
+    & \scriptstyle 1 &    \\
+	& 3              & 5  \\
+  + & 9              & 8  \\
+  \hline
+  1 & 3             & 3  \\
+\end{array}
+$$
+
+TRY IT 1.36: LaTeX
+
+Add: 72 + 89.
+
+Solution:
+
+$$
+\begin{array}{r@{\quad}rr}
+    & 7 & 2  \\
+  + & 8 & 9  \\
+  \hline
+\end{array}
+$$
+
+$$
+\begin{array}{r@{\quad}rr}
+    & \scriptstyle 1 &   \\
+	& 7              & 2 \\
+  + & 8              & 9 \\
+  \hline
+    &                & 1 \\
+\end{array}
+$$
+
+$$
+\begin{array}{r@{\quad}rr}
+    & \scriptstyle 1 &    \\
+	& 7              & 2  \\
+  + & 8              & 9  \\
+  \hline
+  1 & 6              & 1  \\
+\end{array}
+$$
   
+EXAMPLE 1.19: LaTeX
+
+Add: 324 + 586.
+
+Solution:
+
+Write the numbers so the digits line up vertically.
+
+$$
+\begin{array}{r@{\quad}rrr}
+    & 3 & 2 & 4    \\
+  + & 5 & 8 & 6    \\
+  \hline
+\end{array}
+$$
+
+Add the digits in each place value. \
+Add the ones: 4 + 6 = 10 \
+Write the 0 in the ones place in the sum and carry the 1 ten to the tens place.
+
+$$
+\begin{array}{r@{\quad}rrr}
+    &   & \scriptstyle 1 &    \\
+	& 3 & 2              & 4  \\
+  + & 5 & 8              & 6  \\
+  \hline
+    &   &                & 0  \\
+\end{array}
+$$
+
+Add the tens: 1 + 2 + 8 = 11 \
+Write the 1 in the tens place in the sum and carry the 1 hundred to the hundreds.
+
+$$
+\begin{array}{r@{\quad}rrr}
+    & \scriptstyle 1 & \scriptstyle 1 &    \\
+	& 3              & 2              & 4  \\
+  + & 5              & 8              & 6  \\
+  \hline
+    &                & 1              & 0  \\
+\end{array}
+$$
   
-   Add the digits in each place.Add the ones: 3+9=12
-
-  
-    Write the 2 in the ones place in the sum.Add the 1 ten to the tens place.
-    413
-+69____2
-  
-
-  
-    Now add the tens: 1+4+6=11Write the 11 in the sum.
-    413
-+69____112
-  
-
-Add: 35+98.
-
-35+98=133
-
-Add: 72+89.
-
-72+89=161
-
-Add: 324+586.
-
-Solution
-
-  
-    Write the numbers so the digits line up vertically.
+Add the hundreds: 1 + 3 + 5 = 9 \
+Write the 9 in the hundreds place.
     
-  
-  
-    Add the digits in each place value.Add the ones: 4+6=10Write the 0 in the ones place in the sum and carry the 1 ten to the tens place.
-    
-  
-  
-    Add the tens: 1+2+8=11Write the 1 in the tens place in the sum and carry the 1 hundred to the hundreds
-    
-  
-  
-    Add the hundreds: 1+3+5=9Write the 9 in the hundreds place.
-    
-  
+$$
+\begin{array}{r@{\quad}rrr}
+    & \scriptstyle 1 & \scriptstyle 1 &    \\
+	& 3              & 2              & 4  \\
+  + & 5              & 8              & 6  \\
+  \hline
+    & 9              & 1              & 0  \\
+\end{array}
+$$
+
+TRY IT 1.37: LaTeX
 
 Add: 456+376.
 
-456+376=832
+Solution:
+
+$$
+\begin{array}{r@{\quad}rrr}
+    & 4 & 5 & 6    \\
+  + & 3 & 7 & 6    \\
+	\hline
+\end{array}
+$$
+
+$$
+\begin{array}{r@{\quad}rrr}
+   &   & \scriptstyle 1 &   \\
+   & 4 & 5              & 6 \\
+ + & 3 & 7              & 6 \\
+ \hline
+   &   &                & 2 \\
+\end{array}
+$$
+
+$$
+\begin{array}{r@{\quad}rrr}
+   & \scriptstyle 1 & \scriptstyle 1 &   \\
+   & 4              & 5              & 6 \\
+ + & 3              & 7              & 6 \\
+ \hline
+   &                & 3              & 2 \\
+ \end{array}
+ $$
+ 
+ $$
+ \begin{array}{r@{\quad}rrr}
+    & \scriptstyle 1 & \scriptstyle 1 &   \\
+	& 4              & 5              & 6 \\
+  + & 3              & 7              & 6 \\
+  \hline
+    & 8              & 3              & 2 \\
+ \end{array}
+ $$
+
+TRY IT 1.38: LaTeX
 
 Add: 269+578.
 
-269+578=847
+Solution:
 
-Add: 1,683+479.
+$$
+\begin{array}{r@{\quad}rrr}
+   & 2 & 6 & 9    \\
+ + & 5 & 7 & 8    \\
+ \hline
+ \end{array}
+$$
 
-Solution
+$$
+\begin{array}{r@{\quad}rrr}
+   &   & \scriptstyle 1 &    \\
+   & 2 & 6              & 9  \\
+ + & 5 & 7              & 8  \\
+ \hline
+   &   &                & 7  \\
+\end{array}
+$$
 
+$$
+\begin{array}{r@{\quad}rrr}
+   & \scriptstyle 1 & \scriptstyle 1 &   \\
+   & 2              & 6              & 9 \\
+ + & 5              & 7              & 8 \\
+ \hline
+   &                & 4              & 7 \\
+\end{array}
+$$
+
+$$
+\begin{array}{r@{\quad}rrr}
+   & \scriptstyle 1 & \scriptstyle 1 &   \\
+   & 2 & 6 & 9 \\
+ + & 5 & 7 & 8 \\
+ \hline
+   & 8 & 4 & 7 \\
+\end{array}
+$$
+
+269 + 578 = 847
+
+EXAMPLE 1.20: LaTeX
+
+Add: 1,683 + 479.
+
+Solution:
   
-    Write the numbers so the digits line up vertically.
-    1,683
+Write the numbers so the digits line up vertically.
+
+$$
+\begin{array}{r@{\quad}rrrr}
+   & 1 & 6 & 8 & 3   \\
+ + &   & 4 & 7 & 9   \\
+ \hline
+\end{array}
+$$
+
+Add the digits in each place value.
     
-    +479______
-  
-  
-    Add the digits in each place value.
-    
-  
-  
-    Add the ones: 3+9=12.Write the 2 in the ones place of the sum and carry the 1 ten to the tens place.
-    1,6813
-    
+Add the ones: 3+9=12.\
+Write the 2 in the ones place of the sum and carry the 1 ten to the tens place.
 
-+479______2
-  
-  
-    Add the tens: 1+7+8=16Write the 6 in the tens place and carry the 1 hundred to the hundreds place.
-    1,61813
-   
-+479______62
-  
-  
-    Add the hundreds: 1+6+4=11Write the 1 in the hundreds place and carry the 1 thousand to the thousands place.
-    1,61813 
+$$
+\begin{array}{r@{\quad}rrrr}
+   &   &   & \scriptstyle 1 &   \\
+   & 1 & 6 & 8 & 3   \\
+ + &   & 4 & 7 & 9   \\
+ \hline
+   &   &   &   & 2   \\
+ \end{array}
+$$
 
-+479______162
-  
-  
-    Add the thousands 1+1=2.Write the 2 in the thousands place of the sum.
-    1,161813 
+Add the tens: 1+7+8=16\
+Write the 6 in the tens place and carry the 1 hundred to the hundreds place.
 
-+479______2,162
-  
+$$
+\begin{array}{r@{\quad}rrrr}
+   &   & \scriptstyle 1 & \scriptstyle 1 &   \\
+   & 1 & 6 & 8 & 3   \\
+ + &   & 4 & 7 & 9   \\
+ \hline
+   &   &   & 6  & 2   \\
+ \end{array}
+$$
+
+Add the hundreds: 1+6+4=11\
+Write the 1 in the hundreds place and carry the 1 thousand to the thousands place.
+
+$$
+\begin{array}{r@{\quad}rrrr}
+   & \scriptstyle 1 & \scriptstyle 1 & \scriptstyle 1 &   \\
+   & 1 & 6 & 8 & 3   \\
+ + &   & 4 & 7 & 9   \\
+ \hline
+   &   & 1  & 6  & 2   \\
+ \end{array}
+$$
+
+Add the thousands 1+1=2.\
+Write the 2 in the thousands place of the sum.
+
+$$
+\begin{array}{r@{\quad}rrrr}
+   & \scriptstyle 1 & \scriptstyle 1 & \scriptstyle 1 &   \\
+   & 1 & 6 & 8 & 3   \\
+ + &   & 4 & 7 & 9   \\
+ \hline
+   & 2  & 1  & 6  & 2   \\
+ \end{array}
+$$
 
 When the addends have different numbers of digits, be careful to line up the corresponding place values starting with the ones and moving toward the left.
 
